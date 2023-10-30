@@ -35,7 +35,11 @@ Na cena tambem há objetos transparentes um abaixo da esfera, um abaixo do Cubo 
 
 ![Captura de tela 2023-10-29 144629](https://github.com/KalCastro/Jogo-Colisores/assets/129300311/9b7f1c1f-b79c-4f59-9d03-67c794ac68a6)
 
+
+
 ![Captura de tela 2023-10-29 144650](https://github.com/KalCastro/Jogo-Colisores/assets/129300311/6800c16f-b357-48c7-a029-e7a373a4e726)
+
+Se o objeto com o codigo entrar na area do objeto com a tag Player o mesmo será destruido. 
 
 ![Captura de tela 2023-10-29 144718](https://github.com/KalCastro/Jogo-Colisores/assets/129300311/8ce0f61c-ade5-4821-9d2d-fb4d8a23a1b0)
 
