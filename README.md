@@ -18,20 +18,18 @@ https://github.com/KalCastro/Jogo-Colisores/assets/129300311/14421d87-c96b-4a55-
 
 ## Explicação
 
-- Nesta cena os colisores pesquisados anteriormente foram utilizados na pratica, cada objeto da cena possui algum colisor.
+Nesta cena os colisores pesquisados anteriormente foram utilizados na pratica, cada objeto da cena possui algum colisor.
    
-    - Nas paredes:Foi aplicado o Static.
-    - Na esfera: Foi aplicado o Rigidbody.
-    - No Cubo do meio:Foi aplicado o Kinematic Rigidbody
-    - No Cubo a Dir.:Foi aplicado o Rigidbody.
+  - Nas paredes: Foi aplicado o Static. 
+  - Na esfera: Foi aplicado o Rigidbody.
+  - No Cubo do meio: Foi aplicado o Kinematic Rigidbody
+  - No Cubo a Direita: Foi aplicado o Rigidbody.
     
-  Na cena tambem há objetos transparentes um abaixo da esfera, um abaixo do Cubo a direita e outro atras do cubo ao meio.
+Na cena tambem há objetos transparentes um abaixo da esfera, um abaixo do Cubo a direita e outro atras do cubo ao meio.
 
-- Na esfera acima do objeto foi aplicado o Rigidbody Trigger quando a esfera cai sobre o objeto com a tag "Player" ela é destruida.
-
-- No objeto abaixo do cubo a direita foi aplicado o Static Trigger quando o cubo cai sobre ele o cubo é repelido na direção oposta.
-
-- No ultimo objeto transparente foi aplicado o Kinematic Rigidbody Trigger quando o cubo do meio que tem um script de movimento passa por ele, o cubo é destruido e aparece uma mensagem abaixo na tela escrito objeto coletado.
+ - Na esfera acima do objeto foi aplicado o Rigidbody Trigger quando a esfera cai sobre o objeto com a tag "Player" ela é destruida.
+ - No objeto abaixo do cubo a direita foi aplicado o Static Trigger quando o cubo cai sobre ele o cubo é repelido na direção oposta.
+ - No ultimo objeto transparente foi aplicado o Kinematic Rigidbody Trigger quando o cubo do meio que tem um script de movimento passa por ele, o cubo é destruido e aparece uma mensagem abaixo na tela escrito objeto coletado.
 
 ## Codigo
 
